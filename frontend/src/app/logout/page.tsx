@@ -1,11 +1,11 @@
 'use client'
 
-const login = () => {
+const logout = () => {
 
 
     return (
     <div>
-        <h1> this is login page</h1>
+        <h1> this is logout page</h1>
         
     </div>
       
@@ -13,4 +13,4 @@ const login = () => {
     );
 };
 
-export default login;
+export default logout;

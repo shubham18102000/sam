@@ -18,8 +18,8 @@ const Navbar = () => {
       <div className="navbar-right">
         <Link href="#contact" className="nav-link">Contact</Link>
         <Link href="/team" className="nav-link">Team</Link> 
-     
-        <Link href= "/login" className="nav-Link">Login</Link>
+        <Link href="/login" className="nav-link">Login</Link> 
+        <Link href= "/logout" className="nav-Link">Logout</Link>
       </div>
     </nav>
   );
