@@ -11,7 +11,7 @@ import { StarIcon } from 'lucide-react'
 const cars = [
   { 
     id: 1, 
-    name: "Tesla Model 4", 
+    name: "Tesla Model 6", 
     image: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     description: "The Tesla Model 3 is an electric four-door sedan developed by Tesla. The Model 3 Standard Range Plus version delivers an EPA-rated all-electric range of 263 miles (423 km) and the Long Range versions deliver 353 miles (568 km).",
     price: "$39,990",
